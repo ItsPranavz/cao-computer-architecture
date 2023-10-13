@@ -1,3 +1,5 @@
+# Printing out a string
+
 .data
 message: .asciiz "Hello World"
 .text
