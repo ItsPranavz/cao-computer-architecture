@@ -1,3 +1,5 @@
+# Printing out a float value
+
 .data
   float_var: .float 3.14
 
