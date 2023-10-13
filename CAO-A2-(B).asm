@@ -1,4 +1,4 @@
-# Finding sum of two numbers
+# Finding the sum of two numbers
 
 .data
 prompt1: .asciiz "Enter first number: "
