@@ -1,3 +1,5 @@
+# Finding product of two numbers
+
 .data
 prompt1: .asciiz "Enter first number: "
 prompt2: .asciiz "Enter second number: "
