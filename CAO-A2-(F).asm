@@ -4,7 +4,7 @@
 .text
   main:
     l.s $f12, double_var
-    li $v0, 2
+    li $v0, 3
     syscall
 
     li $v0, 10
