@@ -1,3 +1,5 @@
+# Program to show sum of natural numbers till given number.
+
 .data
 prompt: .asciiz "Enter a natural number: "
 result_msg: .asciiz "The sum of natural numbers is: "
