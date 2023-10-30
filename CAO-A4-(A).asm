@@ -1,4 +1,4 @@
-# Program to find largest and the smallest number
+# Program to find the largest and the smallest number
 
 .data
 prompt1: .asciiz "Enter the first number: "
