@@ -1,3 +1,5 @@
+# Printing out a double
+
 .data
   double_var: .double 3.14
 
